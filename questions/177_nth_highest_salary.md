@@ -83,7 +83,7 @@ Output:
 </details>
 
 <details>
-<summary>Solution</solution>
+<summary>Solution</summary>
 
 ```sql
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
