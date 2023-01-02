@@ -10,3 +10,4 @@
 | 178 | [Rank Scores](./questions/178_rank_scores.md) | Medium |
 | 180 | [Consecutive Numbers](./questions/180_consecutive_numbers.md) | Medium |
 | 181 | [Employees Earning More Than Their Managers](./questions/181_employees_earning_more_than_their_managers.md) | Easy |
+| 182 | [Duplicate Emails](./questions/182_duplicate_emails.md) | Easy |
