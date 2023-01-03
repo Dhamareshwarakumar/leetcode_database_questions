@@ -14,3 +14,4 @@
 | 183 | [Customers Who Never Order](./questions/183_customers_who_never_order.md) | Easy |
 | 184 | [Department Highest Salary](./questions/184_department_highest_salary.md) | Medium |
 | 185 | [Department Top Three Salaries](./questions/185_department_top_three_salaries.md) | Hard |
+| 196 | [Delete Duplicate Emails](./questions/196_delete_duplicate_emails.md) | Easy |
