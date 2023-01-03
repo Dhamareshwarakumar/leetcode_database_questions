@@ -12,3 +12,4 @@
 | 181 | [Employees Earning More Than Their Managers](./questions/181_employees_earning_more_than_their_managers.md) | Easy |
 | 182 | [Duplicate Emails](./questions/182_duplicate_emails.md) | Easy |
 | 183 | [Customers Who Never Order](./questions/183_customers_who_never_order.md) | Easy |
+| 184 | [Department Highest Salary](./questions/184_department_highest_salary.md) | Medium |
