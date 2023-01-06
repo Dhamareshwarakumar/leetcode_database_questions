@@ -16,3 +16,4 @@
 | 185 | [Department Top Three Salaries](./questions/185_department_top_three_salaries.md) | Hard |
 | 196 | [Delete Duplicate Emails](./questions/196_delete_duplicate_emails.md) | Easy |
 | 197 | [Rising Temperature](./questions/197_rising_temperature.md) | Easy |
+| 511 | [Game Play Analysis I](./questions/511_game_play_analysis_i.md) | Easy |
